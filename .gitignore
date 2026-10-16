@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+!debug.keystore
+docs/screenshots/
+
+# 密钥配置（勿提交）
+secrets.properties
